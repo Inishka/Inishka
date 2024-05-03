@@ -14,10 +14,6 @@ I am a passionate B.Tech Graduate Engineer from Lucknow University, driven by a 
 - 📚 I'm currently learning ...
 - 🎯 Goals: To be a good Web developer😃
 - 🎲 Fun fact: my favorite food Chole Bhature😍
-- 🔭 
-- 📝
-- 🌐
-- ✍️ 
 
 
 ## Tech Stack
