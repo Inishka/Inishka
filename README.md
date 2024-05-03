@@ -21,7 +21,7 @@ I am a passionate B.Tech Graduate Engineer from Lucknow University, driven by a 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,django,javascript,node,react,typscript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,django,nodejs,react,typscript)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
